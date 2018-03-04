@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ahmaddorri/PycharmProjects/NNProj/test/net3.ckpt"
+all_model_checkpoint_paths: "/Users/ahmaddorri/PycharmProjects/NNProj/test/net3.ckpt"
