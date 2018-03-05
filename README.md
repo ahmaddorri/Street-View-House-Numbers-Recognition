@@ -3,7 +3,9 @@
 this is a result of network3:
 
 step 0, training accuracy 0.109375
+
 step 100, training accuracy 0.25
+
 step 200, training accuracy 0.453125
 step 300, training accuracy 0.703125
 step 400, training accuracy 0.75
