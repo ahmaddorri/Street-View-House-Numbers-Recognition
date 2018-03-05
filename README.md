@@ -1,7 +1,5 @@
 # Street-View-House-Numbers-Recognition
-
-this is a result of network3:
-step 0, training accuracy 0.109375\n
+step 0, training accuracy 0.109375
 step 100, training accuracy 0.25
 step 200, training accuracy 0.453125
 step 300, training accuracy 0.703125
@@ -104,4 +102,3 @@ step 9900, training accuracy 0.9375
 step 10000, training accuracy 0.921875
 test accuracy 0.9307081280788177
 
-Process finished with exit code 0
